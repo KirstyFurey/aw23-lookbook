@@ -191,6 +191,11 @@ img:hover {
         align-items: center;
         background-color: #f7f7f7;
     }
+	
+	.overlay, .o-col, .o-name {
+        width: 150px;
+        height: 210px;
+	}
 
     .img-style {
         width: 150px;
