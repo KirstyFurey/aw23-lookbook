@@ -32,6 +32,7 @@ nav {
 	letter-spacing: 0.2em;
 	font-weight: 900;
 	background-color: white;
+	z-index: 50;
 }
 
 #m-nav {

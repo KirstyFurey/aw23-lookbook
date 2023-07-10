@@ -192,7 +192,7 @@ img:hover {
         background-color: #f7f7f7;
     }
 	
-	.overlay, .o-col, .o-name {
+	.overlay, .o-col, .o-name, .product {
         width: 150px;
         height: 210px;
 	}
