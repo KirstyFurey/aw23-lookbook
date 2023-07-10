@@ -47,6 +47,7 @@
     align-items: center;
 	text-align: center;
 	font-family: ScatterInk;
+	text-shadow: 2px 2px #b3b1b5;
 }
 
 .o-col {
@@ -55,7 +56,7 @@
 	background-color: black;
 	position: relative;
 	z-index: 2;
-	opacity: 0.5;
+	opacity: 0.15;
 }
 
 .product {
